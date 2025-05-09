@@ -1,8 +1,8 @@
-# 🔍 Python Port Scanner
+# Python Port Scanner
 
 This is a beginner-friendly network port scanner built with Python. It scans a range of ports on a target IP address to check whether each port is open or closed.
 
-## ✅ Features
+## Features
 
 - Scans a **custom port range** (with validation)
 - Shows **real-time progress** for each port
@@ -22,24 +22,20 @@ No external libraries needed — works with Python 3+
 ```bash
 python port_scanner.py
 
-
 Enter:
 
-Target IP (e.g., 127.0.0.1)
+    - Target IP (e.g., 127.0.0.1)
 
-Starting port (e.g., 20)
+    - Starting port (e.g., 20)
 
-Ending port (e.g., 80)
+    - Ending port (e.g., 80)
 
 Results will be printed on screen and saved to a file like:
-
-Copy
-Edit
 port_scan_2025-05-06_15-20-55.txt
+
+
 Example Output
-vbnet
-Copy
-Edit
+
 === Python Port Scanner ===
 Target: 127.0.0.1
 Scanning ports 20 to 80
@@ -48,6 +44,8 @@ Scanning port 22...
 Port 22 is closed.
 ...
 Scan completed in 4.32 seconds
+
+
 What I Learned
 Basics of network protocols (TCP/IP)
 
