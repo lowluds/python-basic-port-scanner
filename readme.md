@@ -36,7 +36,7 @@ Results will be printed on screen and saved to a file like:
 Copy
 Edit
 port_scan_2025-05-06_15-20-55.txt
-📄 Example Output
+Example Output
 vbnet
 Copy
 Edit
@@ -48,7 +48,7 @@ Scanning port 22...
 Port 22 is closed.
 ...
 Scan completed in 4.32 seconds
-💡 What I Learned
+What I Learned
 Basics of network protocols (TCP/IP)
 
 How to use Python’s socket and time modules
@@ -57,5 +57,5 @@ Input validation and user-friendly design
 
 Writing clean, real-world CLI tools
 
-📁 Project by: [Lowluds]
-🔗 GitHub: https://github.com/yourusername/python-port-scanner
+📁 Project by: Lowluds 
+🔗 GitHub: https://github.com/lowluds/python-basic-port-scanner
